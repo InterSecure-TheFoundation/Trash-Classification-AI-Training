@@ -1,0 +1,13 @@
+https://universe.roboflow.com/public-ws/batteries
+https://universe.roboflow.com/yolo-eurh8/plastic-nayza/dataset/1/images
+https://universe.roboflow.com/trash-dataset-for-oriented-bounded-box/trash-detection-1fjjc/model/14
+https://universe.roboflow.com/models/object-detection
+https://universe.roboflow.com/battery-i4e70/batteries-4lmwn
+https://universe.roboflow.com/vision-wajsm/spray-0tvqy/dataset/4
+https://universe.roboflow.com/asdasd-boz3q/glass-xrghl/dataset/3
+https://universe.roboflow.com/asdasd-boz3q/glass-xrghl/dataset/3
+https://universe.roboflow.com/noverflow/dust-sdujb
+https://universe.roboflow.com/jc2/leaf-count-w5m5l
+https://universe.roboflow.com/project-zq0wz/metal-can/dataset/1/download/yolov8
+https://universe.roboflow.com/naviyn/fyp-gimtb
+https://universe.roboflow.com/school-gchcr/batteries-1aib9/dataset/1
